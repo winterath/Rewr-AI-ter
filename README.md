@@ -3,4 +3,4 @@
 Code Check
 
 Functions and variables have descriptive names, though folder and file structure isn't clear (to be exact, there are no folders). No comments have been added (an oversight on my part). 
-Requests work fine. Readme works fine. 
+Requests work fine. Readme works fine. examples are in the code. start the service by running api.py. 
