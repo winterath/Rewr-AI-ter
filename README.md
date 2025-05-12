@@ -44,7 +44,7 @@ else:
 
 # How the RAG system works
 
-ALright. So we're in the website, ok? OK. we type in a query from the console, we give it to the AI, and bada bing bada boom, the AI gives you a magical response. But how does it actually work?
+Alright. So we're in the website, ok? OK. we type in a query from the console, we give it to the AI, and bada bing bada boom, the AI gives you a magical response. But how does it actually work?
 
 ## Putting the sauce in the pizza
 
