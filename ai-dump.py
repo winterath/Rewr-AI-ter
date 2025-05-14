@@ -94,7 +94,10 @@ def query_qa():
     return jsonify({'answer': answer}), 200
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=int(os.getenv('PORT', 5000)), debug=True)
+    if os.environ.get('FLASK_ENV') == 'production':
+        print('Flask app ready for WSGI server in production')    
+    else: 
+        app.run(host='0.0.0.0', port=int(os.getenv('PORT', 5000)), debug=True)
 
 
 #api.py code
