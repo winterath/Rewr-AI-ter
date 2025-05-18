@@ -2,6 +2,8 @@ fastapi>=0.105.0
 uvicorn>=0.24.0
 pydantic>=2.5.2
 python-dotenv>=1.0.0
+# utilities
+python-dotenv==1.1.0
 
 # LLM and embedding related
 langchain>=0.0.335
@@ -16,6 +18,9 @@ accelerate>=0.25.0
 # Vector database
 chromadb>=0.4.18
 qdrant-client>=1.6.4
+# api
+Flask==3.1.1
+gunicorn==23.0.0
 
 # Document processing
 unstructured>=0.10.30
@@ -25,6 +30,9 @@ pypdf>=3.17.1
 pillow>=10.1.0
 beautifulsoup4>=4.12.2
 markdown>=3.5.1
+# database
+pysqlite3-binary==0.5.4
+langchain-chroma==0.2.3
 
 # Utilities
 tqdm>=4.66.1
@@ -36,3 +44,7 @@ tiktoken>=0.5.1
 httpx>=0.25.2
 requests>=2.31.0
 aiohttp>=3.9.1
+# LLM and embedding related
+langchain-core==0.3.59
+langchain-text-splitters==0.3.8
+langchain-google-genai==2.1.4

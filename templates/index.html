@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GrinchBobAI</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>N-gram Text Generator</h1>
+        <form id="textForm" action="/generate" method="post">
+            <label for="seed">Enter prompt:</label>
+            <input type="text" id="seed" name="prompt" required>
+            <button type="Generate">Generate</button>
+        </form>
+        <h2>Generated Text:</h2>
+        <p id="output">{{ generated_text }}</p>
+        <form action="/upload" class="left">
+            <button class="float-left submit-button" >Upload Training Data</button>
+        </form>
+    </div>
+</body>
+</html>
