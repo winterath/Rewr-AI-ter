@@ -3,22 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GrinchBobAI</title>
+    <title>Ask a Nagasaki survivor</title>
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
     <div class="container">
-        <h1>N-gram Text Generator</h1>
-        <form id="textForm" action="/generate" method="post">
-            <label for="seed">Enter prompt:</label>
+        <h1>Talk to a Nagasaki survivor</h1>
+        <form id="textForm" action="/chat" method="post">
+            <label for="seed">Ask me a question:</label>
             <input type="text" id="seed" name="prompt" required>
-            <button type="Generate">Generate</button>
+            <button type="Generate">Ask</button>
         </form>
-        <h2>Generated Text:</h2>
-        <p id="output">{{ generated_text }}</p>
-        <form action="/upload" class="left">
-            <button class="float-left submit-button" >Upload Training Data</button>
-        </form>
+        <h2>Response:</h2>
+        <p id="output">{{ response }}</p>
     </div>
 </body>
 </html>
