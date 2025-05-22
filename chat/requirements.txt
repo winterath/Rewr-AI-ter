@@ -1,0 +1,15 @@
+# utilities
+python-dotenv==1.1.0
+
+# api
+Flask==3.1.1
+gunicorn==23.0.0
+
+# database
+pysqlite3-binary==0.5.4
+langchain-chroma==0.2.3
+
+# LLM and embedding related
+langchain-core==0.3.59
+langchain-text-splitters==0.3.8
+langchain-google-genai==2.1.4

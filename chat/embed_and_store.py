@@ -1,9 +1,7 @@
 __import__('pysqlite3')
-import sys
+import sys, os
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
-
-import os
 from dotenv import load_dotenv
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_chroma import Chroma
