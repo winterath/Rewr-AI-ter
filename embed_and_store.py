@@ -15,7 +15,7 @@ embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
 vector_store = Chroma(
     collection_name = "knotebooklm",
     embedding_function=embeddings,
-    persist_directory = "./chroma_langchain_db",
+    persist_directory = os.getenv("DATABASE_PATH", "./chroma_langchain_db"),
 )
 
 def add_documents(documents):

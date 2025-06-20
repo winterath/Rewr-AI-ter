@@ -2,8 +2,7 @@
 
 ## Overview
 
-Currently, this code is a RAG that (creates a website, then) sends a post request with text, document, and user IDs. As of right now, the code only sends a request, then checks the status of the request and connection (as well as creates embeddings), but that will be changed/added to in the coming weeks. 
-
+Currently, this code is a RAG that (creates a website, then) sends a post request with text, document, and user IDs.
 ## Models 
 
 It currently uses Google GenAI.
@@ -95,7 +94,11 @@ else:
 ```
 
 ## Putting the pizza in the maker
+<<<<<<< HEAD
 Now, we use query_post.py to create a prompt based on the rewrite we ask it. It will use the vectors from embed_and_store to make a similarity search (so obviously, if there's nothing similar, the AI will say it doesn't know). It will then create a new prompt based on the most relevant points from the document.
+=======
+Now, we use query_post.py to rewrite a text we ask it to. It will use the vectors from embed_and_store to make a similarity search (so obviously, if there's nothing similar, the AI will say it doesn't know). It will then create a new prompt based on the most relevant points from the document.
+>>>>>>> 26a315258bf61fbbf0bb2c4cda556fb881fecd6d
 
 ```
 def ingest_document():
