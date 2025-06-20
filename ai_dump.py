@@ -1,6 +1,7 @@
 import os
 from flask import Flask, request, jsonify
 from dotenv import load_dotenv  # ([python-engineer.com](https://www.python-engineer.com/posts/dotenv-python/?utm_source=chatgpt.com))
+import json
 
 # Load environment variables
 load_dotenv()  # ([python.langchain.com](https://python.langchain.com/docs/integrations/chat/google_generative_ai/?utm_source=chatgpt.com))
@@ -65,6 +66,12 @@ def query_qa():
     """
     data = request.get_json() or {}
     query = data.get('query')
+    history = data.get('history')
+    #history_text = ''
+    #for turn in history:
+     #   history_text += turn["role"] + ': ' + turn["message"] + '\n'
+    #print(history_text)
+    print(history)
     k = data.get('k', 5)
 
     if not query:
@@ -78,10 +85,10 @@ def query_qa():
 
     # Build prompt
     system_prompt = (
-        "Use the following context to answer the question. "
+        "Use the following context and the chat history to answer the question. Your previous responses are those with the role 'bot', and the user's questions are with the role 'user'."
         "If you don't know the answer, say you don't know."
     )  # ([raw.githubusercontent.com](https://raw.githubusercontent.com/winterath/knotebooklm-rag-service/main/embed_and_store.py))
-    user_prompt = f"Context:\n{context}\n\nQuestion: {query}"
+    user_prompt = f"Context:\n{context}\n\nChat history:{json.dumps(history)}\n\nQuestion: {query}"
 
     # Call LLM with message tuples
     messages = [
@@ -91,10 +98,12 @@ def query_qa():
     response = llm.invoke(messages)
     answer = response.content
 
+
     return jsonify({'answer': answer}), 200
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=int(os.getenv('PORT', 5000)), debug=True)
+
 
 
 #api.py code

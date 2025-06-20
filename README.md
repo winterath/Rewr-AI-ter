@@ -6,7 +6,7 @@ Currently, this code is a RAG that (creates a website, then) sends a post reques
 
 ## Models 
 
-It currently uses Google GenAI just for embeddings (and soon LLM prompt interactions). And yes, the API key is hard-coded.
+It currently uses Google GenAI.
 
 Dependencies
 
@@ -62,7 +62,7 @@ def split_text(text, user_id, document_id,notebook_id):
 
 ## Starting the pizza maker
 
-Starting the website is simple. We used to use python api.py to start it, but now we can use my extremely efficient ai-dump.py. This will start the website so we can either use post or query_post.py. 
+Starting the website is simple. I used to use python api.py to start it, but now we can use my extremely efficient ai-dump.py. This will start the website so we can either use post or query_post.py. 
 
 ```
 #in api.py
@@ -95,7 +95,7 @@ else:
 ```
 
 ## Putting the pizza in the maker
-Now, we use query_post.py to create a prompt based on the query we ask it. It will use the vectors from embed_and_store to make a similarity search (so obviously, if there's nothing similar, the AI will say it doesn't know). It will then create a new prompt based on the most relevant points from the document.
+Now, we use query_post.py to create a prompt based on the rewrite we ask it. It will use the vectors from embed_and_store to make a similarity search (so obviously, if there's nothing similar, the AI will say it doesn't know). It will then create a new prompt based on the most relevant points from the document.
 
 ```
 def ingest_document():
