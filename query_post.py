@@ -1,8 +1,7 @@
 import requests
 import json
 from authors import scrolls, list_of_authors
-import os
-from time import sleep #aight this and os are weird imports but they're for quality of life just trust the process
+from time import sleep
 
 base_url = "http://127.0.0.1:3000"
 path = "/query"
@@ -12,27 +11,16 @@ running = True
 
 text = 'given text' + input("Give a text:\n-->")
 
-query_query = 'filler'
-
-while not query_query.isnumeric():
-    os.system('clear')
-    query_query = input("Rewrite in the style of (type a number):\nType L to see list of authors\n-->")
-    if query_query.lower() == 'l':
-        print(f"list of authors and their respective texts (THIS LIST WILL BE UP FOR 20 SECONDS):\n{list_of_authors}")
-        sleep(20)
-query = scrolls[int(query_query) - 1]
+query = 'l'
 
 
-
-
-
-
-data = {"query": query, "k": 4, "query_for_the_query": query_query}
+history = []
+data = {"query": query, "k": 4, "history": history}
 headers = {"Content-Type":"application/json"}
 
 response = requests.post(url,data=json.dumps(data),headers=headers)
 
-print(response.json())
+#print(response.json())
 
 
 
@@ -40,22 +28,25 @@ print(response.json())
 
 #data = {"query": query, "k": 4, "history": history}
 #history = [{ "role": "user", "message": "Tell me somethign interesting..." }, { "role": "bot", "message": "first reponse" }]
-# history = []
+query2 = 'never gonna give you up, never gonna let you down'
+
+while True:
+    while not query2.isnumeric():
+        query2 = input("\n\nIn whose style would you want me to rewrite? \nType a number or type L for a list of authors: \n-->")
+        if query2.lower() == 'l':
+            print(list_of_authors)
+            sleep(5)
+        if query2 == '':
+            break
+    query = scrolls[int(query2) - 1]
+    history.append({ "role": "user", "message": query });
 
 
-# while True:
-#     query = input("What do you want me to rewrite? \n")
-#     if query == '':
-#         break
+    data = {"query": query, "k": 4, "history": history}
+    headers = {"Content-Type":"application/json"}
 
-#     history.append({ "role": "user", "message": query });
+    response = requests.post(url,data=json.dumps(data),headers=headers)
+    history.append({ "role": "bot", "message": response.json() })
 
-
-#     data = {"query": query, "k": 4, "history": history}
-#     headers = {"Content-Type":"application/json"}
-
-#     response = requests.post(url,data=json.dumps(data),headers=headers)
-#     history.append({ "role": "bot", "message": response.json() })
-
-#     print(response.json())
+    print(response.json())
 

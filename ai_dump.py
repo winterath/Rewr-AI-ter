@@ -82,7 +82,7 @@ def query_qa():
 
     # Build prompt
     system_prompt = (
-        "Rewrite the user's following prompt with a decent amount of the words and completely idenitcal writing style and mannerisms and personality of the given text, while conveying the exact same message as the original prompt. Your previous responses are those with the role 'bot', and the user's questions are with the role 'user'."
+        "Rewrite the user's following prompt with a decent amount of the words and completely idenitcal writing style and mannerisms and personality of the given text, while conveying the exact same message as the original prompt. Your previous responses are those with the role 'bot', and the user's questions are with the role 'user'. YOU MUST KEEP YOUR RESPONSE THE SAME NUMBER OF WORDS AS THE USER'S PROMPT."
         "If you don't know how, say you don't know."
     )  #
     user_prompt = f"Context:\n{context}\n\nChat history:{json.dumps(history)}\n\nQuestion: {query}"
