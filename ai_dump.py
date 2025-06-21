@@ -1,10 +1,10 @@
 import os
 from flask import Flask, request, jsonify
-from dotenv import load_dotenv  # ([python-engineer.com](https://www.python-engineer.com/posts/dotenv-python/?utm_source=chatgpt.com))
+from dotenv import load_dotenv  
 import json
 
 # Load environment variables
-load_dotenv()  # ([python.langchain.com](https://python.langchain.com/docs/integrations/chat/google_generative_ai/?utm_source=chatgpt.com))
+load_dotenv() 
 
 # Text splitting
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -14,18 +14,19 @@ def split_text(text, user_id, document_id,notebook_id):
     doc = Document(page_content=text,metadata={"user_id":user_id,"document_id":document_id,'notebook_id':notebook_id})
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=100, chunk_overlap=40, add_start_index = True)
     splits = text_splitter.split_documents([doc])
-    return splits  # ([python.langchain.com](https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/recursive_text_splitter/?utm_source=chatgpt.com))
+    return splits  
 
-# Embedding & vector store
-from embed_and_store import vector_store, add_documents  # ([raw.githubusercontent.com](https://raw.githubusercontent.com/winterath/knotebooklm-rag-service/main/embed_and_store.py))
 
-# LLM interface
-from langchain_google_genai import ChatGoogleGenerativeAI  # ([python.langchain.com](https://python.langchain.com/docs/integrations/chat/google_generative_ai/?utm_source=chatgpt.com))
+from embed_and_store import vector_store, add_documents  
 
-# Initialize chat model
+
+from langchain_google_genai import ChatGoogleGenerativeAI 
+
+
+
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.0-flash-lite-preview-02-05",
-)  # ([python.langchain.com](https://python.langchain.com/docs/integrations/chat/google_generative_ai/?utm_source=chatgpt.com))
+)
 
 app = Flask(__name__)
 
@@ -45,13 +46,13 @@ def ingest_document():
     if not all([user_id, notebook_id, doc_id, text]):
         return jsonify({'error': 'Missing required fields'}), 400
 
-    # Split text into chunks
-    chunks = split_text(text, user_id, doc_id, notebook_id)  # ([python.langchain.com](https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/recursive_text_splitter/?utm_source=chatgpt.com))
+  
+    chunks = split_text(text, user_id, doc_id, notebook_id) 
 
-    # Embed and store
-    add_documents(chunks)  # ([raw.githubusercontent.com](https://raw.githubusercontent.com/winterath/knotebooklm-rag-service/main/embed_and_store.py))
+
+    add_documents(chunks)  
     try:
-        vector_store.persist()  # ([api.python.langchain.com](https://api.python.langchain.com/en/latest/vectorstores/langchain_chroma.vectorstores.Chroma.html))
+        vector_store.persist() 
     except AttributeError:
         pass
 
@@ -85,8 +86,8 @@ def query_qa():
 
     # Build prompt
     system_prompt = (
-        "Use the following context and the chat history to answer the question. Your previous responses are those with the role 'bot', and the user's questions are with the role 'user'."
-        "If you don't know the answer, say you don't know."
+        "Rewrite the user's following prompt with mostly the words and style of the given text, while conveying the exact same message as the original prompt. Your previous responses are those with the role 'bot', and the user's questions are with the role 'user'."
+        "If you don't know how, say you don't know."
     )  # ([raw.githubusercontent.com](https://raw.githubusercontent.com/winterath/knotebooklm-rag-service/main/embed_and_store.py))
     user_prompt = f"Context:\n{context}\n\nChat history:{json.dumps(history)}\n\nQuestion: {query}"
 
@@ -105,7 +106,7 @@ if __name__ == '__main__':
     if os.environ.get('FLASK_ENV') == 'production':
         print('Flask app ready for WSGI server in production')    
     else: 
-        app.run(host='0.0.0.0', port=int(os.getenv('PORT', 5000)), debug=True)
+        app.run(host='0.0.0.0', port=int(os.getenv('PORT', 3000)), debug=True)
 
 
 
