@@ -68,10 +68,7 @@ def query_qa():
     data = request.get_json() or {}
     query = data.get('query')
     history = data.get('history')
-    #history_text = ''
-    #for turn in history:
-     #   history_text += turn["role"] + ': ' + turn["message"] + '\n'
-    #print(history_text)
+   
     print(history)
     k = data.get('k', 5)
 
@@ -79,23 +76,22 @@ def query_qa():
         return jsonify({'error': 'Query field is required'}), 400
 
     # Retrieve top-k relevant documents
-    docs = vector_store.similarity_search(query, k=k)  # ([api.python.langchain.com](https://api.python.langchain.com/en/latest/vectorstores/langchain_chroma.vectorstores.Chroma.html))
-
+    docs = vector_store.similarity_search(query, k=k)  
     # Prepare context
     context = "\n\n".join(doc.page_content for doc in docs)
 
     # Build prompt
     system_prompt = (
-        "Rewrite the user's following prompt with mostly the words and style of the given text, while conveying the exact same message as the original prompt. Your previous responses are those with the role 'bot', and the user's questions are with the role 'user'."
+        "Rewrite the user's following prompt with a decent amount of the words and completely idenitcal writing style and mannerisms and personality of the given text, while conveying the exact same message as the original prompt. Your previous responses are those with the role 'bot', and the user's questions are with the role 'user'."
         "If you don't know how, say you don't know."
-    )  # ([raw.githubusercontent.com](https://raw.githubusercontent.com/winterath/knotebooklm-rag-service/main/embed_and_store.py))
+    )  #
     user_prompt = f"Context:\n{context}\n\nChat history:{json.dumps(history)}\n\nQuestion: {query}"
 
     # Call LLM with message tuples
     messages = [
         ("system", system_prompt),
         ("human", user_prompt),
-    ]  # ([python.langchain.com](https://python.langchain.com/api_reference/google_genai/chat_models/langchain_google_genai.chat_models.ChatGoogleGenerativeAI.html))
+    ]  # 
     response = llm.invoke(messages)
     answer = response.content
 

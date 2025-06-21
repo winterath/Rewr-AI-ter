@@ -1646,7 +1646,455 @@ that no misfortune was too great to bear if their men were whole. The women went
 the houses to their work, and the children began to play, but cautiously at first. As the
 day went forward the sun became less red. It flared down on the dust-blanketed land.
 The men sat in the doorways of their houses; their hands were busy with sticks and
-little rocks. The men sat still—thinking—figuring. ''']
+little rocks. The men sat still—thinking—figuring. ''','''This old town of Salem—my native place, though I have dwelt much away from it, both in boyhood and maturer years—possesses, or did possess, a hold on my affections, the force of which I have never realized during my seasons of actual residence here. Indeed, so far as its physical aspect is concerned, with its flat, unvaried surface, covered chiefly with wooden houses, few or none of which pretend to architectural beauty,—its irregularity, which is neither picturesque nor quaint, but only tame,—its long and lazy street, lounging wearisomely through the whole extent of the peninsula, with Gallows Hill and New Guinea at one end, and a view of the almshouse at the other,—such being the features of my native town, it would be quite as reasonable to form a sentimental attachment to a disarranged checker-board. And yet, though invariably happiest elsewhere, there is within me a feeling for old Salem, which, in lack of a better phrase, I must be content to call affection. The sentiment is probably assignable to the deep and aged roots which my family has struck into the soil. It is now nearly two centuries and a quarter since the original Briton, the earliest emigrant of my name, made his appearance in the wild and forest-bordered settlement, which has since become a city. And here[8] his descendants have been born and died, and have mingled their earthy substance with the soil; until no small portion of it must necessarily be akin to the mortal frame wherewith, for a little while, I walk the streets. In part, therefore, the attachment which I speak of is the mere sensuous sympathy of dust for dust. Few of my countrymen can know what it is; nor, as frequent transplantation is perhaps better for the stock, need they consider it desirable to know.
+
+But the sentiment has likewise its moral quality. The figure of that first ancestor, invested by family tradition with a dim and dusky grandeur, was present to my boyish imagination, as far back as I can remember. It still haunts me, and induces a sort of home-feeling with the past, which I scarcely claim in reference to the present phase of the town. I seem to have a stronger claim to a residence here on account of this grave, bearded, sable-cloaked and steeple-crowned progenitor,—who came so early, with his Bible and his sword, and trode the unworn street with such a stately port, and made so large a figure, as a man of war and peace,—a stronger claim than for myself, whose name is seldom heard and my face hardly known. He was a soldier, legislator, judge; he was a ruler in the Church; he had all the Puritanic traits, both good and evil. He was likewise a bitter persecutor, as witness the Quakers, who have remembered him in their histories, and relate an incident of his hard severity towards a woman of their sect, which will last longer, it is to be feared, than any record of his better deeds, although these were many. His son, too, inherited the persecuting spirit, and made himself so conspicuous in the martyrdom of the witches, that their blood may fairly be said to have left a stain upon him. So deep a stain, indeed, that his old[9] dry bones, in the Charter Street burial-ground, must still retain it, if they have not crumbled utterly to dust! I know not whether these ancestors of mine bethought themselves to repent, and ask pardon of Heaven for their cruelties; or whether they are now groaning under the heavy consequences of them, in another state of being. At all events, I, the present writer, as their representative, hereby take shame upon myself for their sakes, and pray that any curse incurred by them—as I have heard, and as the dreary and unprosperous condition of the race, for many a long year back, would argue to exist—may be now and henceforth removed.
+
+Doubtless, however, either of these stern and black-browed Puritans would have thought it quite a sufficient retribution for his sins, that, after so long a lapse of years, the old trunk of the family tree, with so much venerable moss upon it, should have borne, as its topmost bough, an idler like myself. No aim, that I have ever cherished, would they recognize as laudable; no success of mine—if my life, beyond its domestic scope, had ever been brightened by success—would they deem otherwise than worthless, if not positively disgraceful. “What is he?” murmurs one gray shadow of my forefathers to the other. “A writer of story-books! What kind of a business in life—what mode of glorifying God, or being serviceable to mankind in his day and generation—may that be? Why, the degenerate fellow might as well have been a fiddler!” Such are the compliments bandied between my great-grandsires and myself, across the gulf of time! And yet, let them scorn me as they will, strong traits of their nature have intertwined themselves with mine.
+
+Planted deep, in the town’s earliest infancy and childhood,[10] by these two earnest and energetic men, the race has ever since subsisted here; always, too, in respectability; never, so far as I have known, disgraced by a single unworthy member; but seldom or never, on the other hand, after the first two generations, performing any memorable deed, or so much as putting forward a claim to public notice. Gradually, they have sunk almost out of sight; as old houses, here and there about the streets, get covered half-way to the eaves by the accumulation of new soil. From father to son, for above a hundred years, they followed the sea; a gray-headed shipmaster, in each generation, retiring from the quarter-deck to the homestead, while a boy of fourteen took the hereditary place before the mast, confronting the salt spray and the gale, which had blustered against his sire and grandsire. The boy, also, in due time, passed from the forecastle to the cabin, spent a tempestuous manhood, and returned from his world-wanderings, to grow old, and die, and mingle his dust with the natal earth. This long connection of a family with one spot, as its place of birth and burial, creates a kindred between the human being and the locality, quite independent of any charm in the scenery or moral circumstances that surround him. It is not love, but instinct. The new inhabitant—who came himself from a foreign land, or whose father or grandfather came—has little claim to be called a Salemite; he has no conception of the oyster-like tenacity with which an old settler, over whom his third century is creeping, clings to the spot where his successive generations have been imbedded. It is no matter that the place is joyless for him; that he is weary of the old wooden houses, the mud and dust, the dead level of site and sentiment, the chill east wind, and the chillest of social atmospheres;—all these, and whatever[11] faults besides he may see or imagine, are nothing to the purpose. The spell survives, and just as powerfully as if the natal spot were an earthly paradise. So has it been in my case. I felt it almost as a destiny to make Salem my home; so that the mould of features and cast of character which had all along been familiar here,—ever, as one representative of the race lay down in his grave, another assuming, as it were, his sentry-march along the main street,—might still in my little day be seen and recognized in the old town. Nevertheless, this very sentiment is an evidence that the connection, which has become an unhealthy one, should at last be severed. Human nature will not flourish, any more than a potato, if it be planted and replanted, for too long a series of generations, in the same worn-out soil. My children have had other birthplaces, and, so far as their fortunes may be within my control, shall strike their roots into unaccustomed earth.
+
+On emerging from the Old Manse, it was chiefly this strange, indolent, unjoyous attachment for my native town, that brought me to fill a place in Uncle Sam’s brick edifice, when I might as well, or better, have gone somewhere else. My doom was on me. It was not the first time, nor the second, that I had gone away,—as it seemed, permanently,—but yet returned, like the bad half-penny; or as if Salem were for me the inevitable centre of the universe. So, one fine morning, I ascended the flight of granite steps, with the President’s commission in my pocket, and was introduced to the corps of gentlemen who were to aid me in my weighty responsibility, as chief executive officer of the Custom-House.
+
+I doubt greatly—or, rather, I do not doubt at all—whether any public functionary of the United States, either in the civil[12] or military line, has ever had such a patriarchal body of veterans under his orders as myself. The whereabouts of the Oldest Inhabitant was at once settled, when I looked at them. For upwards of twenty years before this epoch, the independent position of the Collector had kept the Salem Custom-House out of the whirlpool of political vicissitude, which makes the tenure of office generally so fragile. A soldier,—New England’s most distinguished soldier,—he stood firmly on the pedestal of his gallant services; and, himself secure in the wise liberality of the successive administrations through which he had held office, he had been the safety of his subordinates in many an hour of danger and heart-quake. General Miller was radically conservative; a man over whose kindly nature habit had no slight influence; attaching himself strongly to familiar faces, and with difficulty moved to change, even when change might have brought unquestionable improvement. Thus, on taking charge of my department, I found few but aged men. They were ancient sea-captains, for the most part, who, after being tost on every sea, and standing up sturdily against life’s tempestuous blasts, had finally drifted into this quiet nook; where, with little to disturb them, except the periodical terrors of a Presidential election, they one and all acquired a new lease of existence. Though by no means less liable than their fellow-men to age and infirmity, they had evidently some talisman or other that kept death at bay. Two or three of their number, as I was assured, being gouty and rheumatic, or perhaps bedridden, never dreamed of making their appearance at the Custom-House, during a large part of the year; but, after a torpid winter, would creep out into the warm sunshine of May or June, go lazily about what they termed duty, and, at their own leisure[13] and convenience, betake themselves to bed again. I must plead guilty to the charge of abbreviating the official breath of more than one of these venerable servants of the republic. They were allowed, on my representation, to rest from their arduous labors, and soon afterwards—as if their sole principle of life had been zeal for their country’s service, as I verily believe it was—withdrew to a better world. It is a pious consolation to me, that, through my interference, a sufficient space was allowed them for repentance of the evil and corrupt practices into which, as a matter of course, every Custom-House officer must be supposed to fall. Neither the front nor the back entrance of the Custom-House opens on the road to Paradise.
+
+The greater part of my officers were Whigs. It was well for their venerable brotherhood that the new Surveyor was not a politician, and though a faithful Democrat in principle, neither received nor held his office with any reference to political services. Had it been otherwise,—had an active politician been put into this influential post, to assume the easy task of making head against a Whig Collector, whose infirmities withheld him from the personal administration of his office,—hardly a man of the old corps would have drawn the breath of official life, within a month after the exterminating angel had come up the Custom-House steps. According to the received code in such matters, it would have been nothing short of duty, in a politician, to bring every one of those white heads under the axe of the guillotine. It was plain enough to discern, that the old fellows dreaded some such discourtesy at my hands. It pained, and at the same time amused me, to behold the terrors that attended my advent; to see a furrowed cheek, weather-beaten by half a century of storm, turn ashy pale at the glance of so harmless an[14] individual as myself; to detect, as one or another addressed me, the tremor of a voice, which, in long-past days, had been wont to bellow through a speaking-trumpet, hoarsely enough to frighten Boreas himself to silence. They knew, these excellent old persons, that, by all established rule,—and, as regarded some of them, weighed by their own lack of efficiency for business,—they ought to have given place to younger men, more orthodox in politics, and altogether fitter than themselves to serve our common Uncle. I knew it too, but could never quite find in my heart to act upon the knowledge. Much and deservedly to my own discredit, therefore, and considerably to the detriment of my official conscience, they continued, during my incumbency, to creep about the wharves, and loiter up and down the Custom-House steps. They spent a good deal of time, also, asleep in their accustomed corners, with their chairs tilted back against the wall; awaking, however, once or twice in a forenoon, to bore one another with the several thousandth repetition of old sea-stories, and mouldy jokes, that had grown to be passwords and countersigns among them.
+
+The discovery was soon made, I imagine, that the new Surveyor had no great harm in him. So, with lightsome hearts, and the happy consciousness of being usefully employed,—in their own behalf, at least, if not for our beloved country,—these good old gentlemen went through the various formalities of office. Sagaciously, under their spectacles, did they peep into the holds of vessels! Mighty was their fuss about little matters, and marvellous, sometimes, the obtuseness that allowed greater ones to slip between their fingers! Whenever such a mischance occurred,—when a wagon-load of valuable merchandise had been smuggled ashore, at noonday, perhaps, and directly beneath[15] their unsuspicious noses,—nothing could exceed the vigilance and alacrity with which they proceeded to lock, and double-lock, and secure with tape and sealing-wax, all the avenues of the delinquent vessel. Instead of a reprimand for their previous negligence, the case seemed rather to require an eulogium on their praiseworthy caution, after the mischief had happened; a grateful recognition of the promptitude of their zeal, the moment that there was no longer any remedy.
+
+Unless people are more than commonly disagreeable, it is my foolish habit to contract a kindness for them. The better part of my companion’s character, if it have a better part, is that which usually comes uppermost in my regard, and forms the type whereby I recognize the man. As most of these old Custom-House officers had good traits, and as my position in reference to them, being paternal and protective, was favorable to the growth of friendly sentiments, I soon grew to like them all. It was pleasant, in the summer forenoons,—when the fervent heat, that almost liquefied the rest of the human family, merely communicated a genial warmth to their half-torpid systems,—it was pleasant to hear them chatting in the back entry, a row of them all tipped against the wall, as usual; while the frozen witticisms of past generations were thawed out, and came bubbling with laughter from their lips. Externally, the jollity of aged men has much in common with the mirth of children; the intellect, any more than a deep sense of humor, has little to do with the matter; it is, with both, a gleam that plays upon the surface, and imparts a sunny and cheery aspect alike to the green branch, and gray, mouldering trunk. In one case, however, it is real sunshine; in the other, it more resembles the phosphorescent glow of decaying wood.[16]
+
+It would be sad injustice, the reader must understand, to represent all my excellent old friends as in their dotage. In the first place, my coadjutors were not invariably old; there were men among them in their strength and prime, of marked ability and energy, and altogether superior to the sluggish and dependent mode of life on which their evil stars had cast them. Then, moreover, the white locks of age were sometimes found to be the thatch of an intellectual tenement in good repair. But, as respects the majority of my corps of veterans, there will be no wrong done, if I characterize them generally as a set of wearisome old souls, who had gathered nothing worth preservation from their varied experience of life. They seemed to have flung away all the golden grain of practical wisdom, which they had enjoyed so many opportunities of harvesting, and most carefully to have stored their memories with the husks. They spoke with far more interest and unction of their morning’s breakfast, or yesterday’s, to-day’s, or to-morrow’s dinner, than of the shipwreck of forty or fifty years ago, and all the world’s wonders which they had witnessed with their youthful eyes.
+
+The father of the Custom-House—the patriarch, not only of this little squad of officials, but, I am bold to say, of the respectable body of tide-waiters all over the United States—was a certain permanent Inspector. He might truly be termed a legitimate son of the revenue system, dyed in the wool, or, rather, born in the purple; since his sire, a Revolutionary colonel, and formerly collector of the port, had created an office for him, and appointed him to fill it, at a period of the early ages which few living men can now remember. This Inspector, when I first knew him, was a man of fourscore years, or thereabouts, and certainly one of the most wonderful specimens of winter-green[17] that you would be likely to discover in a lifetime’s search. With his florid cheek, his compact figure, smartly arrayed in a bright-buttoned blue coat, his brisk and vigorous step, and his hale and hearty aspect, altogether he seemed—not young, indeed—but a kind of new contrivance of Mother Nature in the shape of man, whom age and infirmity had no business to touch. His voice and laugh, which perpetually re-echoed through the Custom-House, had nothing of the tremulous quaver and cackle of an old man’s utterance; they came strutting out of his lungs, like the crow of a cock, or the blast of a clarion. Looking at him merely as an animal,—and there was very little else to look at,—he was a most satisfactory object, from the thorough healthfulness and wholesomeness of his system, and his capacity, at that extreme age, to enjoy all, or nearly all, the delights which he had ever aimed at, or conceived of. The careless security of his life in the Custom-House, on a regular income, and with but slight and infrequent apprehensions of removal, had no doubt contributed to make time pass lightly over him. The original and more potent causes, however, lay in the rare perfection of his animal nature, the moderate proportion of intellect, and the very trifling admixture of moral and spiritual ingredients; these latter qualities, indeed, being in barely enough measure to keep the old gentleman from walking on all-fours. He possessed no power of thought, no depth of feeling, no troublesome sensibilities; nothing, in short, but a few commonplace instincts, which, aided by the cheerful temper that grew inevitably out of his physical well-being, did duty very respectably, and to general acceptance, in lieu of a heart. He had been the husband of three wives, all long since dead; the father of twenty children, most of whom, at every age of childhood or maturity, had likewise[18] returned to dust. Here, one would suppose, might have been sorrow enough to imbue the sunniest disposition, through and through, with a sable tinge. Not so with our old Inspector! One brief sigh sufficed to carry off the entire burden of these dismal reminiscences. The next moment, he was as ready for sport as any unbreeched infant; far readier than the Collector’s junior clerk, who, at nineteen years, was much the elder and graver man of the two.
+
+I used to watch and study this patriarchal personage with, I think, livelier curiosity, than any other form of humanity there presented to my notice. He was, in truth, a rare phenomenon; so perfect, in one point of view; so shallow, so delusive, so impalpable, such an absolute nonentity, in every other. My conclusion was that he had no soul, no heart, no mind; nothing, as I have already said, but instincts: and yet, withal, so cunningly had the few materials of his character been put together, that there was no painful perception of deficiency, but, on my part, an entire contentment with what I found in him. It might be difficult—and it was so—to conceive how he should exist hereafter, so earthly and sensuous did he seem; but surely his existence here, admitting that it was to terminate with his last breath, had been not unkindly given; with no higher moral responsibilities than the beasts of the field, but with a larger scope of enjoyment than theirs, and with all their blessed immunity from the dreariness and duskiness of age.
+
+''','''"Yes, of course, if it's fine tomorrow," said Mrs. Ramsay. "But you'll have to be up with the lark," she added.
+
+To her son these words conveyed an extraordinary joy, as if it were settled, the expedition were bound to take place, and the wonder to which he had looked forward, for years and years it seemed, was, after a night's darkness and a day's sail, within touch. Since he belonged, even at the age of six, to that great clan which cannot keep this feeling separate from that, but must let future prospects, with their joys and sorrows, cloud what is actually at hand, since to such people even in earliest childhood any turn in the wheel of sensation has the power to crystallise and transfix the moment upon which its gloom or radiance rests, James Ramsay, sitting on the floor cutting out pictures from the illustrated catalogue of the Army and Navy stores, endowed the picture of a refrigerator, as his mother spoke, with heavenly bliss. It was fringed with joy. The wheelbarrow, the lawnmower, the sound of poplar trees, leaves whitening before rain, rooks cawing, brooms knocking, dresses rustling—all these were so coloured and distinguished in his mind that he had already his private code, his secret language, though he appeared the image of stark and uncompromising severity, with his high forehead and his fierce blue eyes, impeccably candid and pure, frowning slightly at the sight of human frailty, so that his mother, watching him guide his scissors neatly round the refrigerator, imagined him all red and ermine on the Bench or directing a stern and momentous enterprise in some crisis of public affairs.
+
+"But," said his father, stopping in front of the drawing-room window, "it won't be fine."
+
+Had there been an axe handy, a poker, or any weapon that would have gashed a hole in his father's breast and killed him, there and then, James would have seized it. Such were the extremes of emotion that Mr. Ramsay excited in his children's breasts by his mere presence; standing, as now, lean as a knife, narrow as the blade of one, grinning sarcastically, not only with the pleasure of disillusioning his son and casting ridicule upon his wife, who was ten thousand times better in every way than he was (James thought), but also with some secret conceit at his own accuracy of judgement. What he said was true. It was always true. He was incapable of untruth; never tampered with a fact; never altered a disagreeable word to suit the pleasure or convenience of any mortal being, least of all of his own children, who, sprung from his loins, should be aware from childhood that life is difficult; facts uncompromising; and the passage to that fabled land where our brightest hopes are extinguished, our frail barks founder in darkness (here Mr. Ramsay would straighten his back and narrow his little blue eyes upon the horizon), one that needs, above all, courage, truth, and the power to endure.
+
+"But it may be fine—I expect it will be fine," said Mrs. Ramsay, making some little twist of the reddish brown stocking she was knitting, impatiently. If she finished it tonight, if they did go to the Lighthouse after all, it was to be given to the Lighthouse keeper for his little boy, who was threatened with a tuberculous hip; together with a pile of old magazines, and some tobacco, indeed, whatever she could find lying about, not really wanted, but only littering the room, to give those poor fellows, who must be bored to death sitting all day with nothing to do but polish the lamp and trim the wick and rake about on their scrap of garden, something to amuse them. For how would you like to be shut up for a whole month at a time, and possibly more in stormy weather, upon a rock the size of a tennis lawn? she would ask; and to have no letters or newspapers, and to see nobody; if you were married, not to see your wife, not to know how your children were,—if they were ill, if they had fallen down and broken their legs or arms; to see the same dreary waves breaking week after week, and then a dreadful storm coming, and the windows covered with spray, and birds dashed against the lamp, and the whole place rocking, and not be able to put your nose out of doors for fear of being swept into the sea? How would you like that? she asked, addressing herself particularly to her daughters. So she added, rather differently, one must take them whatever comforts one can.
+
+"It's due west," said the atheist Tansley, holding his bony fingers spread so that the wind blew through them, for he was sharing Mr. Ramsay's evening walk up and down, up and down the terrace. That is to say, the wind blew from the worst possible direction for landing at the Lighthouse. Yes, he did say disagreeable things, Mrs. Ramsay admitted; it was odious of him to rub this in, and make James still more disappointed; but at the same time, she would not let them laugh at him. "The atheist," they called him; "the little atheist." Rose mocked him; Prue mocked him; Andrew, Jasper, Roger mocked him; even old Badger without a tooth in his head had bit him, for being (as Nancy put it) the hundred and tenth young man to chase them all the way up to the Hebrides when it was ever so much nicer to be alone.
+
+"Nonsense," said Mrs. Ramsay, with great severity. Apart from the habit of exaggeration which they had from her, and from the implication (which was true) that she asked too many people to stay, and had to lodge some in the town, she could not bear incivility to her guests, to young men in particular, who were poor as churchmice, "exceptionally able," her husband said, his great admirers, and come there for a holiday. Indeed, she had the whole of the other sex under her protection; for reasons she could not explain, for their chivalry and valour, for the fact that they negotiated treaties, ruled India, controlled finance; finally for an attitude towards herself which no woman could fail to feel or to find agreeable, something trustful, childlike, reverential; which an old woman could take from a young man without loss of dignity, and woe betide the girl—pray Heaven it was none of her daughters!—who did not feel the worth of it, and all that it implied, to the marrow of her bones!
+
+She turned with severity upon Nancy. He had not chased them, she said. He had been asked.
+
+They must find a way out of it all. There might be some simpler way, some less laborious way, she sighed. When she looked in the glass and saw her hair grey, her cheek sunk, at fifty, she thought, possibly she might have managed things better—her husband; money; his books. But for her own part she would never for a single second regret her decision, evade difficulties, or slur over duties. She was now formidable to behold, and it was only in silence, looking up from their plates, after she had spoken so severely about Charles Tansley, that her daughters, Prue, Nancy, Rose—could sport with infidel ideas which they had brewed for themselves of a life different from hers; in Paris, perhaps; a wilder life; not always taking care of some man or other; for there was in all their minds a mute questioning of deference and chivalry, of the Bank of England and the Indian Empire, of ringed fingers and lace, though to them all there was something in this of the essence of beauty, which called out the manliness in their girlish hearts, and made them, as they sat at table beneath their mother's eyes, honour her strange severity, her extreme courtesy, like a queen's raising from the mud to wash a beggar's dirty foot, when she admonished them so very severely about that wretched atheist who had chased them—or, speaking accurately, been invited to stay with them—in the Isle of Skye.
+
+"There'll be no landing at the Lighthouse tomorrow," said Charles Tansley, clapping his hands together as he stood at the window with her husband. Surely, he had said enough. She wished they would both leave her and James alone and go on talking. She looked at him. He was such a miserable specimen, the children said, all humps and hollows. He couldn't play cricket; he poked; he shuffled. He was a sarcastic brute, Andrew said. They knew what he liked best—to be for ever walking up and down, up and down, with Mr. Ramsay, and saying who had won this, who had won that, who was a "first rate man" at Latin verses, who was "brilliant but I think fundamentally unsound," who was undoubtedly the "ablest fellow in Balliol," who had buried his light temporarily at Bristol or Bedford, but was bound to be heard of later when his Prolegomena, of which Mr. Tansley had the first pages in proof with him if Mr. Ramsay would like to see them, to some branch of mathematics or philosophy saw the light of day. That was what they talked about.
+
+She could not help laughing herself sometimes. She said, the other day, something about "waves mountains high." Yes, said Charles Tansley, it was a little rough. "Aren't you drenched to the skin?" she had said. "Damp, not wet through," said Mr. Tansley, pinching his sleeve, feeling his socks.
+
+But it was not that they minded, the children said. It was not his face; it was not his manners. It was him—his point of view. When they talked about something interesting, people, music, history, anything, even said it was a fine evening so why not sit out of doors, then what they complained of about Charles Tansley was that until he had turned the whole thing round and made it somehow reflect himself and disparage them—he was not satisfied. And he would go to picture galleries they said, and he would ask one, did one like his tie? God knows, said Rose, one did not.
+
+Disappearing as stealthily as stags from the dinner-table directly the meal was over, the eight sons and daughters of Mr. and Mrs. Ramsay sought their bedrooms, their fastness in a house where there was no other privacy to debate anything, everything; Tansley's tie; the passing of the Reform Bill; sea birds and butterflies; people; while the sun poured into those attics, which a plank alone separated from each other so that every footstep could be plainly heard and the Swiss girl sobbing for her father who was dying of cancer in a valley of the Grisons, and lit up bats, flannels, straw hats, ink-pots, paint-pots, beetles, and the skulls of small birds, while it drew from the long frilled strips of seaweed pinned to the wall a smell of salt and weeds, which was in the towels too, gritty with sand from bathing.
+
+Strife, divisions, difference of opinion, prejudices twisted into the very fibre of being, oh, that they should begin so early, Mrs. Ramsay deplored. They were so critical, her children. They talked such nonsense. She went from the dining-room, holding James by the hand, since he would not go with the others. It seemed to her such nonsense—inventing differences, when people, heaven knows, were different enough without that. The real differences, she thought, standing by the drawing-room window, are enough, quite enough. She had in mind at the moment, rich and poor, high and low; the great in birth receiving from her, half grudging, some respect, for had she not in her veins the blood of that very noble, if slightly mythical, Italian house, whose daughters, scattered about English drawing-rooms in the nineteenth century, had lisped so charmingly, had stormed so wildly, and all her wit and her bearing and her temper came from them, and not from the sluggish English, or the cold Scotch; but more profoundly, she ruminated the other problem, of rich and poor, and the things she saw with her own eyes, weekly, daily, here or in London, when she visited this widow, or that struggling wife in person with a bag on her arm, and a note-book and pencil with which she wrote down in columns carefully ruled for the purpose wages and spendings, employment and unemployment, in the hope that thus she would cease to be a private woman whose charity was half a sop to her own indignation, half a relief to her own curiosity, and become what with her untrained mind she greatly admired, an investigator, elucidating the social problem.
+
+Insoluble questions they were, it seemed to her, standing there, holding James by the hand. He had followed her into the drawing-room, that young man they laughed at; he was standing by the table, fidgeting with something, awkwardly, feeling himself out of things, as she knew without looking round. They had all gone—the children; Minta Doyle and Paul Rayley; Augustus Carmichael; her husband—they had all gone. So she turned with a sigh and said, "Would it bore you to come with me, Mr. Tansley?"
+
+She had a dull errand in the town; she had a letter or two to write; she would be ten minutes perhaps; she would put on her hat. And, with her basket and her parasol, there she was again, ten minutes later, giving out a sense of being ready, of being equipped for a jaunt, which, however, she must interrupt for a moment, as they passed the tennis lawn, to ask Mr. Carmichael, who was basking with his yellow cat's eyes ajar, so that like a cat's they seemed to reflect the branches moving or the clouds passing, but to give no inkling of any inner thoughts or emotion whatsoever, if he wanted anything.
+
+For they were making the great expedition, she said, laughing. They were going to the town. "Stamps, writing-paper, tobacco?" she suggested, stopping by his side. But no, he wanted nothing. His hands clasped themselves over his capacious paunch, his eyes blinked, as if he would have liked to reply kindly to these blandishments (she was seductive but a little nervous) but could not, sunk as he was in a grey-green somnolence which embraced them all, without need of words, in a vast and benevolent lethargy of well-wishing; all the house; all the world; all the people in it, for he had slipped into his glass at lunch a few drops of something, which accounted, the children thought, for the vivid streak of canary-yellow in moustache and beard that were otherwise milk white. No, nothing, he murmured.
+
+He should have been a great philosopher, said Mrs. Ramsay, as they went down the road to the fishing village, but he had made an unfortunate marriage. Holding her black parasol very erect, and moving with an indescribable air of expectation, as if she were going to meet some one round the corner, she told the story; an affair at Oxford with some girl; an early marriage; poverty; going to India; translating a little poetry "very beautifully, I believe," being willing to teach the boys Persian or Hindustanee, but what really was the use of that?—and then lying, as they saw him, on the lawn.
+
+It flattered him; snubbed as he had been, it soothed him that Mrs. Ramsay should tell him this. Charles Tansley revived. Insinuating, too, as she did the greatness of man's intellect, even in its decay, the subjection of all wives—not that she blamed the girl, and the marriage had been happy enough, she believed—to their husband's labours, she made him feel better pleased with himself than he had done yet, and he would have liked, had they taken a cab, for example, to have paid the fare. As for her little bag, might he not carry that? No, no, she said, she always carried THAT herself. She did too. Yes, he felt that in her. He felt many things, something in particular that excited him and disturbed him for reasons which he could not give. He would like her to see him, gowned and hooded, walking in a procession. A fellowship, a professorship, he felt capable of anything and saw himself—but what was she looking at? At a man pasting a bill. The vast flapping sheet flattened itself out, and each shove of the brush revealed fresh legs, hoops, horses, glistening reds and blues, beautifully smooth, until half the wall was covered with the advertisement of a circus; a hundred horsemen, twenty performing seals, lions, tigers...Craning forwards, for she was short-sighted, she read it out..."will visit this town," she read. It was terribly dangerous work for a one-armed man, she exclaimed, to stand on top of a ladder like that—his left arm had been cut off in a reaping machine two years ago.
+
+"Let us all go!" she cried, moving on, as if all those riders and horses had filled her with childlike exultation and made her forget her pity.
+
+"Let's go," he said, repeating her words, clicking them out, however, with a self-consciousness that made her wince. "Let us all go to the circus." No. He could not say it right. He could not feel it right. But why not? she wondered. What was wrong with him then? She liked him warmly, at the moment. Had they not been taken, she asked, to circuses when they were children? Never, he answered, as if she asked the very thing he wanted; had been longing all these days to say, how they did not go to circuses. It was a large family, nine brothers and sisters, and his father was a working man. "My father is a chemist, Mrs. Ramsay. He keeps a shop." He himself had paid his own way since he was thirteen. Often he went without a greatcoat in winter. He could never "return hospitality" (those were his parched stiff words) at college. He had to make things last twice the time other people did; he smoked the cheapest tobacco; shag; the same the old men did in the quays. He worked hard—seven hours a day; his subject was now the influence of something upon somebody—they were walking on and Mrs. Ramsay did not quite catch the meaning, only the words, here and there...dissertation...fellowship...readership...lectureship. She could not follow the ugly academic jargon, that rattled itself off so glibly, but said to herself that she saw now why going to the circus had knocked him off his perch, poor little man, and why he came out, instantly, with all that about his father and mother and brothers and sisters, and she would see to it that they didn't laugh at him any more; she would tell Prue about it. What he would have liked, she supposed, would have been to say how he had gone not to the circus but to Ibsen with the Ramsays. He was an awful prig—oh yes, an insufferable bore. For, though they had reached the town now and were in the main street, with carts grinding past on the cobbles, still he went on talking, about settlements, and teaching, and working men, and helping our own class, and lectures, till she gathered that he had got back entire self-confidence, had recovered from the circus, and was about (and now again she liked him warmly) to tell her—but here, the houses falling away on both sides, they came out on the quay, and the whole bay spread before them and Mrs. Ramsay could not help exclaiming, "Oh, how beautiful!" For the great plateful of blue water was before her; the hoary Lighthouse, distant, austere, in the midst; and on the right, as far as the eye could see, fading and falling, in soft low pleats, the green sand dunes with the wild flowing grasses on them, which always seemed to be running away into some moon country, uninhabited of men.
+
+That was the view, she said, stopping, growing greyer-eyed, that her husband loved.''','''“A Nimbus Two Thousand!” Ron moaned enviously. “I’ve never
+even touched one.”
+They left the hall quickly, wanting to unwrap the broomstick in
+private before their first class, but halfway across the entrance hall
+they found the way upstairs barred by Crabbe and Goyle. Malfoy
+seized the package from Harry and felt it.
+“That’s a broomstick,” he said, throwing it back to Harry with a
+mixture of jealousy and spite on his face. “You’ll be in for it this
+time, Potter, first years aren’t allowed them.”
+Ron couldn’t resist it.
+“It’s not any old broomstick,” he said, “it’s a Nimbus Two Thousand. What did you say you’ve got at home, Malfoy, a Comet Two
+Sixty?” Ron grinned at Harry. “Comets look flashy, but they’re not
+in the same league as the Nimbus.”
+“What would you know about it, Weasley, you couldn’t afford
+half the handle,” Malfoy snapped back. “I suppose you and your
+brothers have to save up twig by twig.”
+Before Ron could answer, Professor Flitwick appeared at Malfoy’s elbow.
+“Not arguing, I hope, boys?” he squeaked.
+“Potters been sent a broomstick, Professor,” said Malfoy quickly.
+“Yes, yes, that’s right,” said Professor Flitwick, beaming at Harry.
+“Professor McGonagall told me all about the special circumstances,
+Potter. And what model is it?”
+“A Nimbus Two Thousand, sir,” said Harry, fighting not to
+laugh at the look of horror on Malfoy’s face. “And it’s really thanks
+to Malfoy here that I’ve got it,” he added.
+Harry and Ron headed upstairs, smothering their laughter at
+Malfoy’s obvious rage and confusion.
+CHAPTER TEN
+ 166 
+“Well, it’s true,” Harry chortled as they reached the top of the
+marble staircase, “If he hadn’t stolen Neville’s Remembrall I
+wouldn’t be on the team. . . .”
+“So I suppose you think that’s a reward for breaking rules?” came
+an angry voice from just behind them. Hermione was stomping up
+the stairs, looking disapprovingly at the package in Harry’s hand.
+“I thought you weren’t speaking to us?” said Harry.
+“Yes, don’t stop now,” said Ron, “it’s doing us so much good.”
+Hermione marched away with her nose in the air.
+Harry had a lot of trouble keeping his mind on his lessons that
+day. It kept wandering up to the dormitory where his new broomstick was lying under his bed, or straying off to the Quidditch
+field where he’d be learning to play that night. He bolted his dinner that evening without noticing what he was eating, and then
+rushed upstairs with Ron to unwrap the Nimbus Two Thousand at
+last.
+“Wow,” Ron sighed, as the broomstick rolled onto Harry’s bedspread.
+Even Harry, who knew nothing about the different brooms,
+thought it looked wonderful. Sleek and shiny, with a mahogany
+handle, it had a long tail of neat, straight twigs and Nimbus Two
+Thousand written in gold near the top.
+As seven o’clock drew nearer, Harry left the castle and set off in
+the dusk toward the Quidditch field. He’d never been inside the
+stadium before. Hundreds of seats were raised in stands around the
+field so that the spectators were high enough to see what was going
+on. At either end of the field were three golden poles with hoops on
+the end. They reminded Harry of the little plastic sticks Muggle
+HALLOWEEN
+ 167 
+children blew bubbles through, except that they were fifty feet
+high.
+Too eager to fly again to wait for Wood, Harry mounted his
+broomstick and kicked off from the ground. What a feeling — he
+swooped in and out of the goal posts and then sped up and down
+the field. The Nimbus Two Thousand turned wherever he wanted
+at his lightest touch.
+“Hey, Potter, come down!”
+Oliver Wood had arrived. He was carrying a large wooden crate
+under his arm. Harry landed next to him.
+“Very nice,” said Wood, his eyes glinting. “I see what McGonagall meant . . . you really are a natural. I’m just going to teach you
+the rules this evening, then you’ll be joining team practice three
+times a week.”
+He opened the crate. Inside were four different-sized balls.
+“Right,” said Wood. “Now, Quidditch is easy enough to understand, even if it’s not too easy to play. There are seven players on
+each side. Three of them are called Chasers.”
+“Three Chasers,” Harry repeated, as Wood took out a bright red
+ball about the size of a soccer ball.
+“This ball’s called the Quaffle,” said Wood. “The Chasers throw
+the Quaffle to each other and try and get it through one of the
+hoops to score a goal. Ten points every time the Quaffle goes
+through one of the hoops. Follow me?”
+“The Chasers throw the Quaffle and put it through the hoops to
+score,” Harry recited. “So — that’s sort of like basketball on
+broomsticks with six hoops, isn’t it?”
+“What’s basketball?” said Wood curiously.
+CHAPTER TEN
+ 168 
+“Never mind,” said Harry quickly.
+“Now, there’s another player on each side who’s called the
+Keeper — I’m Keeper for Gryffindor. I have to fly around our
+hoops and stop the other team from scoring.”
+“Three Chasers, one Keeper,” said Harry, who was determined
+to remember it all. “And they play with the Quaffle. Okay, got that.
+So what are they for?” He pointed at the three balls left inside the
+box.
+“I’ll show you now,” said Wood. “Take this.”
+He handed Harry a small club, a bit like a short baseball bat.
+“I’m going to show you what the Bludgers do,” Wood said.
+“These two are the Bludgers.”
+He showed Harry two identical balls, jet black and slightly
+smaller than the red Quaffle. Harry noticed that they seemed to be
+straining to escape the straps holding them inside the box.
+“Stand back,” Wood warned Harry. He bent down and freed
+one of the Bludgers.
+At once, the black ball rose high in the air and then pelted
+straight at Harry’s face. Harry swung at it with the bat to stop it
+from breaking his nose, and sent it zigzagging away into the air —
+it zoomed around their heads and then shot at Wood, who dived
+on top of it and managed to pin it to the ground.
+“See?” Wood panted, forcing the struggling Bludger back into
+the crate and strapping it down safely. “The Bludgers rocket around,
+trying to knock players off their brooms. That’s why you have two
+Beaters on each team — the Weasley twins are ours — it’s their job
+to protect their side from the Bludgers and try and knock them
+toward the other team. So — think you’ve got all that?”
+HALLOWEEN
+ 169 
+“Three Chasers try and score with the Quaffle; the Keeper
+guards the goal posts; the Beaters keep the Bludgers away from their
+team,” Harry reeled off.
+“Very good,” said Wood.
+“Er — have the Bludgers ever killed anyone?” Harry asked, hoping he sounded offhand.
+“Never at Hogwarts. We’ve had a couple of broken jaws but
+nothing worse than that. Now, the last member of the team is the
+Seeker. That’s you. And you don’t have to worry about the Quaffle
+or the Bludgers —”
+“— unless they crack my head open.”
+“Don’t worry, the Weasleys are more than a match for the
+Bludgers — I mean, they’re like a pair of human Bludgers themselves.”
+Wood reached into the crate and took out the fourth and last
+ball. Compared with the Quaffle and the Bludgers, it was tiny,
+about the size of a large walnut. It was bright gold and had little
+fluttering silver wings.
+“This,” said Wood, “is the Golden Snitch, and it’s the most important ball of the lot. It’s very hard to catch because it’s so fast and
+difficult to see. It’s the Seeker’s job to catch it. You’ve got to weave
+in and out of the Chasers, Beaters, Bludgers, and Quaffle to get it
+before the other team’s Seeker, because whichever Seeker catches
+the Snitch wins his team an extra hundred and fifty points, so they
+nearly always win. That’s why Seekers get fouled so much. A game
+of Quidditch only ends when the Snitch is caught, so it can go on
+for ages — I think the record is three months, they had to keep
+bringing on substitutes so the players could get some sleep.
+CHAPTER TEN
+ 170 
+“Well, that’s it — any questions?”
+Harry shook his head. He understood what he had to do all
+right, it was doing it that was going to be the problem.
+“We won’t practice with the Snitch yet,” said Wood, carefully
+shutting it back inside the crate, “it’s too dark, we might lose it.
+Let’s try you out with a few of these.”
+He pulled a bag of ordinary golf balls out of his pocket and a few
+minutes later, he and Harry were up in the air, Wood throwing the
+golf balls as hard as he could in every direction for Harry to catch.
+Harry didn’t miss a single one, and Wood was delighted. After
+half an hour, night had really fallen and they couldn’t carry on.
+“That Quidditch Cup’ll have our name on it this year,” said
+Wood happily as they trudged back up to the castle. “I wouldn’t be
+surprised if you turn out better than Charlie Weasley, and he could
+have played for England if he hadn’t gone off chasing dragons.”
+Perhaps it was because he was now so busy, what with Quidditch
+practice three evenings a week on top of all his homework, but
+Harry could hardly believe it when he realized that he’d already
+been at Hogwarts two months. The castle felt more like home than
+Privet Drive ever had. His lessons, too, were becoming more and
+more interesting now that they had mastered the basics.
+On Halloween morning they woke to the delicious smell of baking pumpkin wafting through the corridors. Even better, Professor
+Flitwick announced in Charms that he thought they were ready to
+start making objects fly, something they had all been dying to try
+since they’d seen him make Neville’s toad zoom around the classroom. Professor Flitwick put the class into pairs to practice. Harry’s
+HALLOWEEN
+ 171 
+partner was Seamus Finnigan (which was a relief, because Neville
+had been trying to catch his eye). Ron, however, was to be working
+with Hermione Granger. It was hard to tell whether Ron or
+Hermione was angrier about this. She hadn’t spoken to either of
+them since the day Harry’s broomstick had arrived.
+“Now, don’t forget that nice wrist movement we’ve been practicing!” squeaked Professor Flitwick, perched on top of his pile of
+books as usual. “Swish and flick, remember, swish and flick. And
+saying the magic words properly is very important, too — never
+forget Wizard Baruffio, who said ‘s’ instead of ‘f’ and found himself
+on the floor with a buffalo on his chest.”
+It was very difficult. Harry and Seamus swished and flicked, but
+the feather they were supposed to be sending skyward just lay on
+the desktop. Seamus got so impatient that he prodded it with his
+wand and set fire to it — Harry had to put it out with his hat.
+Ron, at the next table, wasn’t having much more luck.
+“Wingardium Leviosa!” he shouted, waving his long arms like a
+windmill.
+“You’re saying it wrong,” Harry heard Hermione snap. “It’s
+Wing-gar-dium Levi-o-sa, make the ‘gar’ nice and long.”
+“You do it, then, if you’re so clever,” Ron snarled.
+Hermione rolled up the sleeves of her gown, flicked her wand,
+and said, “Wingardium Leviosa!”
+Their feather rose off the desk and hovered about four feet above
+their heads.
+“Oh, well done!” cried Professor Flitwick, clapping. “Everyone
+see here, Miss Granger’s done it!”
+Ron was in a very bad mood by the end of the class.
+CHAPTER TEN
+ 172 
+“It’s no wonder no one can stand her,” he said to Harry as they
+pushed their way into the crowded corridor, “she’s a nightmare,
+honestly.”
+Someone knocked into Harry as they hurried past him. It was
+Hermione. Harry caught a glimpse of her face — and was startled
+to see that she was in tears.
+“I think she heard you.”
+“So?” said Ron, but he looked a bit uncomfortable. “She must’ve
+noticed she’s got no friends.”
+Hermione didn’t turn up for the next class and wasn’t seen all afternoon. On their way down to the Great Hall for the Halloween
+feast, Harry and Ron overheard Parvati Patil telling her friend
+Lavender that Hermione was crying in the girls’ bathroom and
+wanted to be left alone. Ron looked still more awkward at this, but
+a moment later they had entered the Great Hall, where the Halloween decorations put Hermione out of their minds.
+A thousand live bats fluttered from the walls and ceiling while a
+thousand more swooped over the tables in low black clouds, making the candles in the pumpkins stutter. The feast appeared suddenly on the golden plates, as it had at the start-of-term banquet.
+Harry was just helping himself to a baked potato when Professor
+Quirrell came sprinting into the hall, his turban askew and terror
+on his face. Everyone stared as he reached Professor Dumbledore’s
+chair, slumped against the table, and gasped, “Troll — in the dungeons — thought you ought to know.”
+He then sank to the floor in a dead faint.
+There was an uproar. It took several purple firecrackers exploding from the end of Professor Dumbledore’s wand to bring silence.
+HALLOWEEN
+ 173 
+“Prefects,” he rumbled, “lead your Houses back to the dormitories immediately!”
+Percy was in his element.
+“Follow me! Stick together, first years! No need to fear the troll
+if you follow my orders! Stay close behind me, now. Make way, first
+years coming through! Excuse me, I’m a prefect!”
+“How could a troll get in?” Harry asked as they climbed the
+stairs.
+“Don’t ask me, they’re supposed to be really stupid,” said Ron.
+“Maybe Peeves let it in for a Halloween joke.”
+They passed different groups of people hurrying in different directions. As they jostled their way through a crowd of confused
+Hufflepuffs, Harry suddenly grabbed Ron’s arm.
+“I’ve just thought — Hermione.”
+“What about her?”
+“She doesn’t know about the troll.”
+Ron bit his lip.
+“Oh, all right,” he snapped. “But Percy’d better not see us.”
+Ducking down, they joined the Hufflepuffs going the other way,
+slipped down a deserted side corridor, and hurried off toward the
+girls’ bathroom. They had just turned the corner when they heard
+quick footsteps behind them.
+“Percy!” hissed Ron, pulling Harry behind a large stone griffin.
+Peering around it, however, they saw not Percy but Snape. He
+crossed the corridor and disappeared from view.
+“What’s he doing?” Harry whispered. “Why isn’t he down in the
+dungeons with the rest of the teachers?”
+“Search me.”''','''You don’t know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain’t no matter. That book was made by Mr. Mark Twain, and he told the truth, mainly. There was things which he stretched, but mainly he told the truth. That is nothing. I never seen anybody but lied one time or another, without it was Aunt Polly, or the widow, or maybe Mary. Aunt Polly—Tom’s Aunt Polly, she is—and Mary, and the Widow Douglas is all told about in that book, which is mostly a true book, with some stretchers, as I said before.
+
+Now the way that the book winds up is this: Tom and me found the money that the robbers hid in the cave, and it made us rich. We got six thousand dollars apiece—all gold. It was an awful sight of money when it was piled up. Well, Judge Thatcher he took it and put it out at interest, and it fetched us a dollar a day apiece all the year round—more than a body could tell what to do with. The Widow Douglas she took me for her son, and allowed she would sivilize me; but it was rough living in the house all the time, considering how dismal regular and decent the widow was in all her ways; and so when I couldn’t stand it no longer I lit out. I got into my old rags and my sugar-hogshead again, and was free and satisfied. But Tom Sawyer he hunted me up and said he was going to start a band of robbers, and I might join if I would go back to the widow and be respectable. So I went back.
+
+The widow she cried over me, and called me a poor lost lamb, and she called me a lot of other names, too, but she never meant no harm by it. She put me in them new clothes again, and I couldn’t do nothing but sweat and sweat, and feel all cramped up. Well, then, the old thing commenced again. The widow rung a bell for supper, and you had to come to time. When you got to the table you couldn’t go right to eating, but you had to wait for the widow to tuck down her head and grumble a little over the victuals, though there warn’t really anything the matter with them,—that is, nothing only everything was cooked by itself. In a barrel of odds and ends it is different; things get mixed up, and the juice kind of swaps around, and the things go better.
+
+After supper she got out her book and learned me about Moses and the Bulrushers, and I was in a sweat to find out all about him; but by-and-by she let it out that Moses had been dead a considerable long time; so then I didn’t care no more about him, because I don’t take no stock in dead people.
+
+Pretty soon I wanted to smoke, and asked the widow to let me. But she wouldn’t. She said it was a mean practice and wasn’t clean, and I must try to not do it any more. That is just the way with some people. They get down on a thing when they don’t know nothing about it. Here she was a-bothering about Moses, which was no kin to her, and no use to anybody, being gone, you see, yet finding a power of fault with me for doing a thing that had some good in it. And she took snuff, too; of course that was all right, because she done it herself.
+
+Her sister, Miss Watson, a tolerable slim old maid, with goggles on, had just come to live with her, and took a set at me now with a spelling-book. She worked me middling hard for about an hour, and then the widow made her ease up. I couldn’t stood it much longer. Then for an hour it was deadly dull, and I was fidgety. Miss Watson would say, “Don’t put your feet up there, Huckleberry;” and “Don’t scrunch up like that, Huckleberry—set up straight;” and pretty soon she would say, “Don’t gap and stretch like that, Huckleberry—why don’t you try to behave?” Then she told me all about the bad place, and I said I wished I was there. She got mad then, but I didn’t mean no harm. All I wanted was to go somewheres; all I wanted was a change, I warn’t particular. She said it was wicked to say what I said; said she wouldn’t say it for the whole world; she was going to live so as to go to the good place. Well, I couldn’t see no advantage in going where she was going, so I made up my mind I wouldn’t try for it. But I never said so, because it would only make trouble, and wouldn’t do no good. Now she had got a start, and she went on and told me all about the good place. She said all a body would have to do there was to go around all day long with a harp and sing, forever and ever. So I didn’t think much of it. But I never said so. I asked her if she reckoned Tom Sawyer would go there, and she said not by a considerable sight. I was glad about that, because I wanted him and me to be together.
+
+Miss Watson she kept pecking at me, and it got tiresome and lonesome. By-and-by they fetched the niggers in and had prayers, and then everybody was off to bed. I went up to my room with a piece of candle, and put it on the table. Then I set down in a chair by the window and tried to think of something cheerful, but it warn’t no use. I felt so lonesome I most wished I was dead. The stars were shining, and the leaves rustled in the woods ever so mournful; and I heard an owl, away off, who-whooing about somebody that was dead, and a whippowill and a dog crying about somebody that was going to die; and the wind was trying to whisper something to me, and I couldn’t make out what it was, and so it made the cold shivers run over me. Then away out in the woods I heard that kind of a sound that a ghost makes when it wants to tell about something that’s on its mind and can’t make itself understood, and so can’t rest easy in its grave, and has to go about that way every night grieving. I got so down-hearted and scared I did wish I had some company. Pretty soon a spider went crawling up my shoulder, and I flipped it off and it lit in the candle; and before I could budge it was all shriveled up. I didn’t need anybody to tell me that that was an awful bad sign and would fetch me some bad luck, so I was scared and most shook the clothes off of me. I got up and turned around in my tracks three times and crossed my breast every time; and then I tied up a little lock of my hair with a thread to keep witches away. But I hadn’t no confidence. You do that when you’ve lost a horseshoe that you’ve found, instead of nailing it up over the door, but I hadn’t ever heard anybody say it was any way to keep off bad luck when you’d killed a spider.
+
+I set down again, a-shaking all over, and got out my pipe for a smoke; for the house was all as still as death now, and so the widow wouldn’t know. Well, after a long time I heard the clock away off in the town go boom—boom—boom—twelve licks; and all still again—stiller than ever. Pretty soon I heard a twig snap down in the dark amongst the trees—something was a stirring. I set still and listened. Directly I could just barely hear a “me-yow! me-yow!” down there. That was good! Says I, “me-yow! me-yow!” as soft as I could, and then I put out the light and scrambled out of the window on to the shed. Then I slipped down to the ground and crawled in among the trees, and, sure enough, there was Tom Sawyer waiting for me.
+
+''','''A large cask of wine had been dropped and broken, in the street. The accident had happened in getting it out of a cart; the cask had tumbled out with a run, the hoops had burst, and it lay on the stones just outside the door of the wine-shop, shattered like a walnut-shell.
+
+All the people within reach had suspended their business, or their idleness, to run to the spot and drink the wine. The rough, irregular stones of the street, pointing every way, and designed, one might have thought, expressly to lame all living creatures that approached them, had dammed it into little pools; these were surrounded, each by its own jostling group or crowd, according to its size. Some men kneeled down, made scoops of their two hands joined, and sipped, or tried to help women, who bent over their shoulders, to sip, before the wine had all run out between their fingers. Others, men and women, dipped in the puddles with little mugs of mutilated earthenware, or even with handkerchiefs from women’s heads, which were squeezed dry into infants’ mouths; others made small mud-embankments, to stem the wine as it ran; others, directed by lookers-on up at high windows, darted here and there, to cut off little streams of wine that started away in new directions; others devoted themselves to the sodden and lee-dyed pieces of the cask, licking, and even champing the moister wine-rotted fragments with eager relish. There was no drainage to carry off the wine, and not only did it all get taken up, but so much mud got taken up along with it, that there might have been a scavenger in the street, if anybody acquainted with it could have believed in such a miraculous presence.
+
+A shrill sound of laughter and of amused voices—voices of men, women, and children—resounded in the street while this wine game lasted. There was little roughness in the sport, and much playfulness. There was a special companionship in it, an observable inclination on the part of every one to join some other one, which led, especially among the luckier or lighter-hearted, to frolicsome embraces, drinking of healths, shaking of hands, and even joining of hands and dancing, a dozen together. When the wine was gone, and the places where it had been most abundant were raked into a gridiron-pattern by fingers, these demonstrations ceased, as suddenly as they had broken out. The man who had left his saw sticking in the firewood he was cutting, set it in motion again; the women who had left on a door-step the little pot of hot ashes, at which she had been trying to soften the pain in her own starved fingers and toes, or in those of her child, returned to it; men with bare arms, matted locks, and cadaverous faces, who had emerged into the winter light from cellars, moved away, to descend again; and a gloom gathered on the scene that appeared more natural to it than sunshine.
+
+The wine was red wine, and had stained the ground of the narrow street in the suburb of Saint Antoine, in Paris, where it was spilled. It had stained many hands, too, and many faces, and many naked feet, and many wooden shoes. The hands of the man who sawed the wood, left red marks on the billets; and the forehead of the woman who nursed her baby, was stained with the stain of the old rag she wound about her head again. Those who had been greedy with the staves of the cask, had acquired a tigerish smear about the mouth; and one tall joker so besmirched, his head more out of a long squalid bag of a nightcap than in it, scrawled upon a wall with his finger dipped in muddy wine-lees—blood.
+
+The time was to come, when that wine too would be spilled on the street-stones, and when the stain of it would be red upon many there.
+
+And now that the cloud settled on Saint Antoine, which a momentary gleam had driven from his sacred countenance, the darkness of it was heavy—cold, dirt, sickness, ignorance, and want, were the lords in waiting on the saintly presence—nobles of great power all of them; but, most especially the last. Samples of a people that had undergone a terrible grinding and regrinding in the mill, and certainly not in the fabulous mill which ground old people young, shivered at every corner, passed in and out at every doorway, looked from every window, fluttered in every vestige of a garment that the wind shook. The mill which had worked them down, was the mill that grinds young people old; the children had ancient faces and grave voices; and upon them, and upon the grown faces, and ploughed into every furrow of age and coming up afresh, was the sigh, Hunger. It was prevalent everywhere. Hunger was pushed out of the tall houses, in the wretched clothing that hung upon poles and lines; Hunger was patched into them with straw and rag and wood and paper; Hunger was repeated in every fragment of the small modicum of firewood that the man sawed off; Hunger stared down from the smokeless chimneys, and started up from the filthy street that had no offal, among its refuse, of anything to eat. Hunger was the inscription on the baker’s shelves, written in every small loaf of his scanty stock of bad bread; at the sausage-shop, in every dead-dog preparation that was offered for sale. Hunger rattled its dry bones among the roasting chestnuts in the turned cylinder; Hunger was shred into atomics in every farthing porringer of husky chips of potato, fried with some reluctant drops of oil.
+
+Its abiding place was in all things fitted to it. A narrow winding street, full of offence and stench, with other narrow winding streets diverging, all peopled by rags and nightcaps, and all smelling of rags and nightcaps, and all visible things with a brooding look upon them that looked ill. In the hunted air of the people there was yet some wild-beast thought of the possibility of turning at bay. Depressed and slinking though they were, eyes of fire were not wanting among them; nor compressed lips, white with what they suppressed; nor foreheads knitted into the likeness of the gallows-rope they mused about enduring, or inflicting. The trade signs (and they were almost as many as the shops) were, all, grim illustrations of Want. The butcher and the porkman painted up, only the leanest scrags of meat; the baker, the coarsest of meagre loaves. The people rudely pictured as drinking in the wine-shops, croaked over their scanty measures of thin wine and beer, and were gloweringly confidential together. Nothing was represented in a flourishing condition, save tools and weapons; but, the cutler’s knives and axes were sharp and bright, the smith’s hammers were heavy, and the gunmaker’s stock was murderous. The crippling stones of the pavement, with their many little reservoirs of mud and water, had no footways, but broke off abruptly at the doors. The kennel, to make amends, ran down the middle of the street—when it ran at all: which was only after heavy rains, and then it ran, by many eccentric fits, into the houses. Across the streets, at wide intervals, one clumsy lamp was slung by a rope and pulley; at night, when the lamplighter had let these down, and lighted, and hoisted them again, a feeble grove of dim wicks swung in a sickly manner overhead, as if they were at sea. Indeed they were at sea, and the ship and crew were in peril of tempest.
+
+For, the time was to come, when the gaunt scarecrows of that region should have watched the lamplighter, in their idleness and hunger, so long, as to conceive the idea of improving on his method, and hauling up men by those ropes and pulleys, to flare upon the darkness of their condition. But, the time was not come yet; and every wind that blew over France shook the rags of the scarecrows in vain, for the birds, fine of song and feather, took no warning.
+
+The wine-shop was a corner shop, better than most others in its appearance and degree, and the master of the wine-shop had stood outside it, in a yellow waistcoat and green breeches, looking on at the struggle for the lost wine. “It’s not my affair,” said he, with a final shrug of the shoulders. “The people from the market did it. Let them bring another.”
+
+There, his eyes happening to catch the tall joker writing up his joke, he called to him across the way:
+
+“Say, then, my Gaspard, what do you do there?”
+
+The fellow pointed to his joke with immense significance, as is often the way with his tribe. It missed its mark, and completely failed, as is often the way with his tribe too.
+
+“What now? Are you a subject for the mad hospital?” said the wine-shop keeper, crossing the road, and obliterating the jest with a handful of mud, picked up for the purpose, and smeared over it. “Why do you write in the public streets? Is there—tell me thou—is there no other place to write such words in?”
+
+In his expostulation he dropped his cleaner hand (perhaps accidentally, perhaps not) upon the joker’s heart. The joker rapped it with his own, took a nimble spring upward, and came down in a fantastic dancing attitude, with one of his stained shoes jerked off his foot into his hand, and held out. A joker of an extremely, not to say wolfishly practical character, he looked, under those circumstances.
+
+“Put it on, put it on,” said the other. “Call wine, wine; and finish there.” With that advice, he wiped his soiled hand upon the joker’s dress, such as it was—quite deliberately, as having dirtied the hand on his account; and then recrossed the road and entered the wine-shop.
+
+This wine-shop keeper was a bull-necked, martial-looking man of thirty, and he should have been of a hot temperament, for, although it was a bitter day, he wore no coat, but carried one slung over his shoulder. His shirt-sleeves were rolled up, too, and his brown arms were bare to the elbows. Neither did he wear anything more on his head than his own crisply-curling short dark hair. He was a dark man altogether, with good eyes and a good bold breadth between them. Good-humoured looking on the whole, but implacable-looking, too; evidently a man of a strong resolution and a set purpose; a man not desirable to be met, rushing down a narrow pass with a gulf on either side, for nothing would turn the man.
+
+Madame Defarge, his wife, sat in the shop behind the counter as he came in. Madame Defarge was a stout woman of about his own age, with a watchful eye that seldom seemed to look at anything, a large hand heavily ringed, a steady face, strong features, and great composure of manner. There was a character about Madame Defarge, from which one might have predicated that she did not often make mistakes against herself in any of the reckonings over which she presided. Madame Defarge being sensitive to cold, was wrapped in fur, and had a quantity of bright shawl twined about her head, though not to the concealment of her large earrings. Her knitting was before her, but she had laid it down to pick her teeth with a toothpick. Thus engaged, with her right elbow supported by her left hand, Madame Defarge said nothing when her lord came in, but coughed just one grain of cough. This, in combination with the lifting of her darkly defined eyebrows over her toothpick by the breadth of a line, suggested to her husband that he would do well to look round the shop among the customers, for any new customer who had dropped in while he stepped over the way.
+
+The wine-shop keeper accordingly rolled his eyes about, until they rested upon an elderly gentleman and a young lady, who were seated in a corner. Other company were there: two playing cards, two playing dominoes, three standing by the counter lengthening out a short supply of wine. As he passed behind the counter, he took notice that the elderly gentleman said in a look to the young lady, “This is our man.”
+
+“What the devil do you do in that galley there?” said Monsieur Defarge to himself; “I don’t know you.”
+
+But, he feigned not to notice the two strangers, and fell into discourse with the triumvirate of customers who were drinking at the counter.
+
+“How goes it, Jacques?” said one of these three to Monsieur Defarge. “Is all the spilt wine swallowed?”
+
+“Every drop, Jacques,” answered Monsieur Defarge.
+
+When this interchange of Christian name was effected, Madame Defarge, picking her teeth with her toothpick, coughed another grain of cough, and raised her eyebrows by the breadth of another line.
+
+“It is not often,” said the second of the three, addressing Monsieur Defarge, “that many of these miserable beasts know the taste of wine, or of anything but black bread and death. Is it not so, Jacques?”
+
+“It is so, Jacques,” Monsieur Defarge returned.
+
+At this second interchange of the Christian name, Madame Defarge, still using her toothpick with profound composure, coughed another grain of cough, and raised her eyebrows by the breadth of another line.
+
+The last of the three now said his say, as he put down his empty drinking vessel and smacked his lips.
+
+“Ah! So much the worse! A bitter taste it is that such poor cattle always have in their mouths, and hard lives they live, Jacques. Am I right, Jacques?”
+
+“You are right, Jacques,” was the response of Monsieur Defarge.
+
+This third interchange of the Christian name was completed at the moment when Madame Defarge put her toothpick by, kept her eyebrows up, and slightly rustled in her seat.
+
+“Hold then! True!” muttered her husband. “Gentlemen—my wife!”
+
+The three customers pulled off their hats to Madame Defarge, with three flourishes. She acknowledged their homage by bending her head, and giving them a quick look. Then she glanced in a casual manner round the wine-shop, took up her knitting with great apparent calmness and repose of spirit, and became absorbed in it.
+
+“Gentlemen,” said her husband, who had kept his bright eye observantly upon her, “good day. The chamber, furnished bachelor-fashion, that you wished to see, and were inquiring for when I stepped out, is on the fifth floor. The doorway of the staircase gives on the little courtyard close to the left here,” pointing with his hand, “near to the window of my establishment. But, now that I remember, one of you has already been there, and can show the way. Gentlemen, adieu!”
+
+They paid for their wine, and left the place. The eyes of Monsieur Defarge were studying his wife at her knitting when the elderly gentleman advanced from his corner, and begged the favour of a word.
+
+“Willingly, sir,” said Monsieur Defarge, and quietly stepped with him to the door.
+
+Their conference was very short, but very decided. Almost at the first word, Monsieur Defarge started and became deeply attentive. It had not lasted a minute, when he nodded and went out. The gentleman then beckoned to the young lady, and they, too, went out. Madame Defarge knitted with nimble fingers and steady eyebrows, and saw nothing.
+
+Mr. Jarvis Lorry and Miss Manette, emerging from the wine-shop thus, joined Monsieur Defarge in the doorway to which he had directed his own company just before. It opened from a stinking little black courtyard, and was the general public entrance to a great pile of houses, inhabited by a great number of people. In the gloomy tile-paved entry to the gloomy tile-paved staircase, Monsieur Defarge bent down on one knee to the child of his old master, and put her hand to his lips. It was a gentle action, but not at all gently done; a very remarkable transformation had come over him in a few seconds. He had no good-humour in his face, nor any openness of aspect left, but had become a secret, angry, dangerous man.
+
+“It is very high; it is a little difficult. Better to begin slowly.” Thus, Monsieur Defarge, in a stern voice, to Mr. Lorry, as they began ascending the stairs.
+
+“Is he alone?” the latter whispered.
+
+“Alone! God help him, who should be with him!” said the other, in the same low voice.
+
+“Is he always alone, then?”
+
+“Yes.”
+
+“Of his own desire?”
+
+“Of his own necessity. As he was, when I first saw him after they found me and demanded to know if I would take him, and, at my peril be discreet—as he was then, so he is now.”
+
+“He is greatly changed?”
+
+“Changed!”
+
+The keeper of the wine-shop stopped to strike the wall with his hand, and mutter a tremendous curse. No direct answer could have been half so forcible. Mr. Lorry’s spirits grew heavier and heavier, as he and his two companions ascended higher and higher.
+
+Such a staircase, with its accessories, in the older and more crowded parts of Paris, would be bad enough now; but, at that time, it was vile indeed to unaccustomed and unhardened senses. Every little habitation within the great foul nest of one high building—that is to say, the room or rooms within every door that opened on the general staircase—left its own heap of refuse on its own landing, besides flinging other refuse from its own windows. The uncontrollable and hopeless mass of decomposition so engendered, would have polluted the air, even if poverty and deprivation had not loaded it with their intangible impurities; the two bad sources combined made it almost insupportable. Through such an atmosphere, by a steep dark shaft of dirt and poison, the way lay. Yielding to his own disturbance of mind, and to his young companion’s agitation, which became greater every instant, Mr. Jarvis Lorry twice stopped to rest. Each of these stoppages was made at a doleful grating, by which any languishing good airs that were left uncorrupted, seemed to escape, and all spoilt and sickly vapours seemed to crawl in. Through the rusted bars, tastes, rather than glimpses, were caught of the jumbled neighbourhood; and nothing within range, nearer or lower than the summits of the two great towers of Notre-Dame, had any promise on it of healthy life or wholesome aspirations.
+
+At last, the top of the staircase was gained, and they stopped for the third time. There was yet an upper staircase, of a steeper inclination and of contracted dimensions, to be ascended, before the garret story was reached. The keeper of the wine-shop, always going a little in advance, and always going on the side which Mr. Lorry took, as though he dreaded to be asked any question by the young lady, turned himself about here, and, carefully feeling in the pockets of the coat he carried over his shoulder, took out a key.
+
+“The door is locked then, my friend?” said Mr. Lorry, surprised.
+
+“Ay. Yes,” was the grim reply of Monsieur Defarge.
+
+“You think it necessary to keep the unfortunate gentleman so retired?”
+
+“I think it necessary to turn the key.” Monsieur Defarge whispered it closer in his ear, and frowned heavily.
+
+“Why?”
+
+“Why! Because he has lived so long, locked up, that he would be frightened—rave—tear himself to pieces—die—come to I know not what harm—if his door was left open.”
+
+“Is it possible!” exclaimed Mr. Lorry.
+
+“Is it possible!” repeated Defarge, bitterly. “Yes. And a beautiful world we live in, when it is possible, and when many other such things are possible, and not only possible, but done—done, see you!—under that sky there, every day. Long live the Devil. Let us go on.”
+
+This dialogue had been held in so very low a whisper, that not a word of it had reached the young lady’s ears. But, by this time she trembled under such strong emotion, and her face expressed such deep anxiety, and, above all, such dread and terror, that Mr. Lorry felt it incumbent on him to speak a word or two of reassurance.
+
+“Courage, dear miss! Courage! Business! The worst will be over in a moment; it is but passing the room-door, and the worst is over. Then, all the good you bring to him, all the relief, all the happiness you bring to him, begin. Let our good friend here, assist you on that side. That’s well, friend Defarge. Come, now. Business, business!”
+
+They went up slowly and softly. The staircase was short, and they were soon at the top. There, as it had an abrupt turn in it, they came all at once in sight of three men, whose heads were bent down close together at the side of a door, and who were intently looking into the room to which the door belonged, through some chinks or holes in the wall. On hearing footsteps close at hand, these three turned, and rose, and showed themselves to be the three of one name who had been drinking in the wine-shop.
+
+“I forgot them in the surprise of your visit,” explained Monsieur Defarge. “Leave us, good boys; we have business here.”''']
 
 
 list_of_authors ='''
@@ -1655,11 +2103,11 @@ list_of_authors ='''
 3 - William Faulkner (The Sound and the Fury)
 4 - Ernest Hemingway (A Farewell to Arms)
 5 - John Steinbeck (The Grapes of Wrath)
-6 -
-7 -
-8 -
-9 -
-10 -
+6 - Nathaniel Hawthorne (The Scarlet Letter)
+7 - Virginia Woolf (To the Lighthouse)
+8 - J.K. Rowling (Harry Potter and the Sorcerer's Stone)
+9 - Mark Twain (The Adventures of Huckleberry Finn)
+10 - Charles Dickens (Tale of Two Cities (peak imho))
 11 -
 12 -
 13 -
